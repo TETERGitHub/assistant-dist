@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.1/troll.exe",
-  "notes": "Исправлен вход (больше не входит сразу как владелец), графический установщик, запись ошибок в лог",
-  "sha256": "97618f178a333e1ccb4885797d872351c60ac0a1dba9c08b9c59c53c66b507b9"
+  "version": "1.0.2",
+  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.2/troll.exe",
+  "notes": "Исправлена ошибка WinError 2 (теперь сам находит и запускает Ollama); ИИ надёжно работает с файлами, папками и программами",
+  "sha256": "f0ce3b7acff0285de1df20a1fa5c3c9428ccdaa8fed266f32b61d30e6af4128d"
 }
