@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.0/troll.exe",
-  "notes": "Первая версия",
-  "sha256": "0f403b133be0f42b66e73784a500ee1f2898ca305a35a289ef1fa01de8cd3389"
+  "version": "1.0.1",
+  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.1/troll.exe",
+  "notes": "Исправлен вход (больше не входит сразу как владелец), графический установщик, запись ошибок в лог",
+  "sha256": "97618f178a333e1ccb4885797d872351c60ac0a1dba9c08b9c59c53c66b507b9"
 }
