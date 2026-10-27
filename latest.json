@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.3/troll.exe",
-  "notes": "Проверка обновлений вынесена в общие настройки; баннер показывается сразу после входа",
-  "sha256": "372f14ca4f6479ca07bc56870c848cdb7318248d70f0ed1e9f5af1acb9aba5a1"
+  "version": "1.0.7",
+  "url": "https://github.com/TETERGitHub/assistant-dist/releases/download/v1.0.7/troll.exe",
+  "notes": "Глубокая кастомизация оформления (цвет каждой буквы имени, градиент/радуга, шрифт, форма пузырей, фон чата, цвет фона); детализация и дизайнер картинок",
+  "sha256": "078f58d1976601bbe0e0b8bd9b83ef69329237506420d7acc26a79b921f0bbea"
 }
